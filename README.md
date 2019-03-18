@@ -94,6 +94,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Reeoo](http://reeoo.com/) 也是一个专门收集优秀网页设计网站，提供了详细的分类目录，从 App，艺术，卡通到摄影，体育一应具全，还可以根据颜色的主题筛选，非常好用。
 + [land-book](http://land-book.com/)  LandBook 专门收集了优秀的 landing page 页面，品类齐全
 + [call to idea](http://www.calltoidea.com/) 一个以类别为线索收集各种设计的网站，专业，精美，是激发灵感的好地方。把同类别的优秀设计统观一遍，你就能发现很多共通之处
++ [花瓣]（http://www.huabanpro.com/）国内收集素材的网站。
 
 + [google art-project](https://www.google.com/culturalinstitute/project/art-project?hl=en-gb) 
 
